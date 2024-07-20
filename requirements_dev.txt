@@ -6,6 +6,8 @@ flask
 mlflow==2.2.2
 dvc
 
+ipykernel
+
 # dev requirements -
 
 pytest==7.1.3
